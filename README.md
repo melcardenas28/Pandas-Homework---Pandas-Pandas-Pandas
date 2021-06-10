@@ -7,13 +7,13 @@ Option 1: Heroes of Pymoli
 
 * Purchasing Analysis (Total)
 
-Number of Unique Items,
+  - Number of Unique Items,
 
-Average Purchase Price,
+  - Average Purchase Price,
 
-Total Number of Purchases,
+  - Total Number of Purchases,
 
-Total Revenue,
+  - Total Revenue,
 
 * Gender Demographics,
 Percentage and Count of Male Players,
