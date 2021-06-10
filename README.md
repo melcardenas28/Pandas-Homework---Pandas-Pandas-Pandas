@@ -7,7 +7,6 @@ Option 1: Heroes of Pymoli
 
 * Purchasing Analysis (Total)
 
-
 Number of Unique Items,
 
 Average Purchase Price,
