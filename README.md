@@ -5,10 +5,15 @@ Option 1: Heroes of Pymoli
 
 * Total Number of Players
 
-* Purchasing Analysis (Total),
+* Purchasing Analysis (Total)
+
+
 Number of Unique Items,
+
 Average Purchase Price,
+
 Total Number of Purchases,
+
 Total Revenue,
 
 * Gender Demographics,
