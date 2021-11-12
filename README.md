@@ -1,6 +1,7 @@
  Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](https://user-images.githubusercontent.com/83568152/141416194-5a76acda-581c-46cd-a817-4713fc0b84f6.png)
+
 
 Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
